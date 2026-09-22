@@ -1,53 +1,21 @@
-<h1 align="center">Hi 👋, I'm Asmae</h1>              <p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
+# 💫 About Me:
+## Hi, how are you? 👋<br><br>- 😎 I am a **Big Data & AI Student** with a passion for **AI & Research**<br>- 🏴‍☠️ CTF & Cybersecurity (**Penetration Testing**) | 🤖 **ML & DL**<br>- 📩 Shoot me an [Email](mailto:asmaeoussetta20@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/asmae-oussetta-50a44032a) :)
 
-<h3 align="center">Cybersecurity & AI Student | Passionate about Ethical Hacking</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmaeoussetta&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=asmaeoussetta20-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=asmaeoussetta20-ux&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=asmaeoussetta20-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-## 🚀 About Me
-- 🔐 Passionate about **Cybersecurity & AI**
-- 🎯 Currently learning **Ethical Hacking & CTFs**
-- 🧠 Always learning something new
-- 💬 Ask me about **Python, Linux, CTF**
-
----
-## 📚 Currently Learning
-
-- 🛡️ Web Security (XSS, SQLi, SSRF)
-- 🧪 Penetration Testing
-- 🐧 Advanced Linux
-- 🏴‍☠️ CTF Challenges
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asmaeoussetta20-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-## 🐍 Contribution Snake
+[![](https://komarev.com/ghpvc/?username=asmaeoussetta20-ux&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<p align="center">
-<img src="https://github.com/Asmae627/Asmae627/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
----
-##  Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,matlab,linux,ubuntu,git,github" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=kali&theme=light"/>
-</p>
-
-## 🌐 Connect with me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/asmae-oussetta-50a44032a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="mailto:asmaeoussetta20@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
